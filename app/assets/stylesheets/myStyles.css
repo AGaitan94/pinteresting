@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+.fondo
+{
+	background-color: #ecf0f1;
+}
+.nav-custom
+{
+	border-radius: 0px;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background-color: white;
+	height: 45px;
+}
+
+.jumbo-custom
+{
+	background-color: white;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+.navbar-default .navbar-brand
+{
+	color:  #c0392b;
+	font-weight: bold;
+	
+}
